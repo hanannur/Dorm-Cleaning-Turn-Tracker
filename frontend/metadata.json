@@ -1,0 +1,5 @@
+{
+  "name": "DormMate",
+  "description": "A mobile-first shared dorm management app for university students to track cleaning turns, streaks, and room status.",
+  "requestFramePermissions": []
+}
